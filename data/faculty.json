@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name" : "Gowtham",
+    "email": "Gowtham@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Materials Sciences"],
+    "courses_handled": ["Applied Mechanics",""],
+    "office_location": "Room 101-D",
+    "office_hours": "Mon-Wed 10am-1pm"
+  },
+  {
+    "id": 2,
+    "name" : "Pawan",
+    "email": "pawan123@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Databases","Web Development","AI theory"],
+    "courses_handled": ["Problem Solving Programming","Intro to WebDev"],
+    "office_location": "Room 101-H",
+    "office_hours": "Sat 10am-12am"
+  },
+  {
+    "id": 3,
+    "name" : "Priyanka",
+    "email": "priyanka@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Signal Processing","Analog Systems","Semiconductors"],
+    "courses_handled": ["Sensors and Controls","Chip Design Lab"],
+    "office_location": "Room 102-F",
+    "office_hours": "Tue-Thu 10am-1pm"
+  },
+  {
+    "id": 4,
+    "name" : "Arul",
+    "email": "arul678@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Simulation","Nuclear Energy"],
+    "courses_handled": ["Design and Manufacturing Lab","Production Drawing"],
+    "office_location": "Room 101-F",
+    "office_hours": "Mon/Wed 10-12"
+  },
+  {
+    "id": 5,
+    "name" : "Kalpana",
+    "email": "kalpana@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Electric Cicurits","Digital Systems"],
+    "courses_handled": ["Basic Electric Circuits","Communication Systems"],
+    "office_location": "Room 101-B",
+    "office_hours": "Tue 12pm-3pm"
+  },
+  {
+    "id": 6,
+    "name" : "Jagannath",
+    "email": "Gowtham@iiitdm.ac.in",
+    "department": "HS",
+    "specialization": ["Finite Elemental Analysis"],
+    "courses_handled":["Calculus","Linear Algebra","Differential Equations"],
+    "office_location": "Room 101-C",
+    "office_hours": "Tue/Fri 3pm-5pm"
+  }
+] 

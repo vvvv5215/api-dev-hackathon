@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Problem Solving Programming",
+    "code": "CS1001",
+    "description": "Introduction to the C language and basic coding concepts.",
+    "course_type" : "Theory",
+    "credits": 3,
+    "department": "CSE",
+    "prerequisites": [],
+    "faculty_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Production Drawing",
+    "code": "ME1003",
+    "description": "Intro to designing machines in CAD software",
+    "course_type" : "Theory+Lab",
+    "credits": 3,
+    "department": "ME",
+    "prerequisites": ["AutoCAD"],
+    "faculty_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Linear Algebra",
+    "code": "MA3001",
+    "description": "Intro to linear equations, mapping and vectoral spaces.",
+    "course_type" : "Theory",
+    "credits": 4,
+    "department": "HS",
+    "prerequisites": ["Differential Equations","Calculus"],
+    "faculty_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Sociology of Deisgn",
+    "code": "DS1002",
+    "description": "Exploring ethnography and colour theory.",
+    "course_type" : "Theory",
+    "credits": 3,
+    "department": "DS",
+    "prerequisites": ["Introduction to Design"],
+    "faculty_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Sensors and Controls",
+    "code": "EC2003",
+    "description": "Learn about various types of sensors",
+    "course_type" : "Theory+Lab",
+    "credits": 3,
+    "department": "DS",
+    "prerequisites": ["Introduction to Design"],
+    "faculty_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Design and Manufacturing Lab",
+    "code": "ID1002",
+    "description": "Hand on experience on basic lab equipments.",
+    "credits": 1,
+    "department": "DS",
+    "prerequisites": ["Sociology of Deisgn"],
+    "faculty_id": 3
+  }
+] 
