@@ -2,6 +2,8 @@ Made for the API dev Hackathon!
 
 # Course & Faculty API
 
+deployed link: https://api-dev-hackathon-production.up.railway.app/
+
 A simple FastAPI-based backend for serving course and faculty data from JSON files. Returns pretty-printed JSON for easy reading and testing.
 
 ## Features
