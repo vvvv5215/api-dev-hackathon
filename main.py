@@ -24,7 +24,8 @@ def root():
             "faculty by name": "/faculty/name/{name}",
             "all names": "/all-names"
         },
-        "Refer to docs here!": "lol"
+        "Interactive API": "http://127.0.0.1:8000/docs#/",
+        "Code and Documentation": "https://github.com/vvvv5215/api-dev-hackathon"
     },
     indent=2),
     media_type= "application/json")
